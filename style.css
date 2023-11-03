@@ -15,7 +15,7 @@ img {
 h2 {
     text-align:center;
 }
-
+color:red;
 /* The code below aligns all the sections horizontally on the bottom. */
 .section-container {
     display:flex;
@@ -26,4 +26,8 @@ h2 {
 .section {
     border: 5px black solid;
     margin:5px;
+}
+
+body { 
+background-color:#FFFF00;
 }
